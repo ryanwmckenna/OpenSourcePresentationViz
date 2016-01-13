@@ -1,0 +1,86 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
+ */
+
+ // This file has been copied over from
+ // ../../bower_components/reveal.js/css/theme/source/black.scss
+
+ // See ../../bower_components/reveal.js/css/theme/README.md
+ // for further explanations on how to create a custom reveal.js theme.
+
+// Default mixins and settings -----------------
+@import "../../bower_components/reveal.js/css/theme/template/mixins";
+@import "../../bower_components/reveal.js/css/theme/template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+//@import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
+
+
+// Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
+$backgroundColor: #20292f;
+
+$mainColor: #fff;
+$headingColor: #fff;
+
+$mainFontSize: 38px;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #42affa;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+
+$frs: #91c164;
+$rowzed: #e95a54;
+$manifesto: #12e1c5;
+$magna: #f3996d;
+$mural: #e1bf23;
+
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-light-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #222;
+	}
+}
+
+.reveal {
+	
+	background: url(../resources/bbcscotlandlogo.png) bottom left no-repeat fixed;
+	background-size: 15%;
+	
+}
+
+.black-back{
+	background-color: rgba(0,0,0,0.8);
+}
+
+.name { 
+	font-size: 2.0em !important;
+}
+
+.job {
+	font-size: 1.5em !important;
+}
+
+img{
+	border: none !important;
+	background: none !important;
+	box-shadow: none !important;
+}
+
+// Theme template ------------------------------
+@import "../../bower_components/reveal.js/css/theme/template/theme";
+// ---------------------------------------------
