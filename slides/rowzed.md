@@ -12,7 +12,7 @@
 
 <section>
 
-![](../resources/PNG Grabs/RowZed_001_Home copy.png "")
+![](../resources/rowzed-start.png "")
 
 </section>
 
@@ -25,5 +25,11 @@
 <section>
 
 ![](../resources/PNG Grabs/RowZed_003_Main copy.png "")
+
+</section>
+
+<section>
+
+![](../resources/rowzed-bowls.png "")
 
 </section>

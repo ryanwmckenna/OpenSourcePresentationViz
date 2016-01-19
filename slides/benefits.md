@@ -1,12 +1,14 @@
 
 ### Benefits
 
-Familarity of users with web interfaces
+Familiarity of users with web interfaces
 
-Choice of solid open source projects
+Users and production easily trained
 
-Maintainability and service costs
+Low maintenance and service costs
 
 Collaboration with other departments
 
 Cross platform use
+
+Easy to deploy and update

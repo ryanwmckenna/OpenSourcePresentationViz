@@ -1,3 +1,9 @@
+<section>
+
+![](../resources/Trio.png "")
+
+</section>
+
 
 <section>
 
@@ -19,19 +25,6 @@
 
 <section>
 
-<h3>Viz Pilot</h3>
-
-<p>Market for developers is small</p>
-
-<p>Little room for collaboration</p>
-
-<p>Re-branding expensive</p>
-
-<p>Windows only</p>
-
-<p>Restricted development options</p>
-
-<p>Needs a license</p>
-
+![](../resources/AlbaZed.png "")
 
 </section>

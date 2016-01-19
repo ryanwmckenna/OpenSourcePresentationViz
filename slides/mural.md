@@ -1,42 +1,12 @@
 
 <section>
 
-![](../resources/system_d_Magna.png "")
+![](../resources/system_d_Mural.png "")
 
 </section>
 
 <section>
 
-![](../resources/PNG Grabs/Magna_Run_3 copy.png "")
-
-</section>
-
-<section>
-
-![](../resources/PNG Grabs/Magna_Present_Wall copy.png "")
-
-</section>
-
-<section>
-
-![](../resources/PNG Grabs/Magna_Run_1 copy.png "")
-
-</section>
-
-<section>
-
-![](../resources/PNG Grabs/Magna_Present_Fullframe copy.png "")
-
-</section>
-
-<section>
-
-![](../resources/PNG Grabs/Magna_Run_2 copy.png "")
-
-</section>
-
-<section>
-
-![](../resources/PNG Grabs/Magna_Present_Lower3rd copy.png "")
+![](../resources/needed.png "")
 
 </section>
